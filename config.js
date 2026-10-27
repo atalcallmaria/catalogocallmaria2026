@@ -1,3 +1,5 @@
-// Preencha apenas a URL e a chave PUBLICÁVEL (anon/publishable) do Supabase.
-// NUNCA coloque service_role, secret key ou senha neste arquivo.
-window.CALLMARIA_CONFIG = { SUPABASE_URL: "", SUPABASE_PUBLISHABLE_KEY: "", WHATSAPP: "5548991500667" };
+window.CALLMARIA_CONFIG = {
+  SUPABASE_URL: "https://nsyhomqnvgnankfxmaiw.supabase.co",
+  SUPABASE_PUBLISHABLE_KEY: "sb_publishable_3Q0E5-rQJDFgr-1CT3Lyow_BjXf9pTh",
+  WHATSAPP: "5548991500667"
+};
